@@ -24,7 +24,7 @@ module.exports = {
   ],
   author: {
     name: 'Greg Edelston',
-    photo: '/photo.jpg',
+    photo: '/my_headshot.jpg',
     bio: 'Software engineer, Zen student, comedy nerd, and recent herbivore. The website is coming along nicely.',
     contacts: {
       email: '#',
