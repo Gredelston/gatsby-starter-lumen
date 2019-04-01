@@ -27,10 +27,10 @@ module.exports = {
     photo: '/my_headshot.jpg',
     bio: 'Software engineer, Zen student, comedy nerd, and recent herbivore. The website is coming along nicely.',
     contacts: {
-      email: '#',
+      email: 'gredelston@gmail.com',
       telegram: '#',
-      twitter: '#',
-      github: '#',
+      twitter: 'gredelston',
+      github: 'gredelston',
       rss: '#'
     }
   }
