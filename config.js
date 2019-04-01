@@ -23,9 +23,9 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'Greg Edelston',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'Software engineer, Zen student, comedy nerd, and recent herbivore. The website is coming along nicely.',
     contacts: {
       email: '#',
       telegram: '#',
